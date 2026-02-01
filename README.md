@@ -31,7 +31,8 @@ This project focuses on analyzing customer behavior to uncover insights related 
 ## Project Files
 -  **Power BI Dashboard**
 -  **Customer Behavior Analysis Report (PDF)**  
-  [View / Download Report](Customer-Behavior-Analysis-Report.pdf)
+[View / Download Report](https://github.com/AHMADALI200/Customer-Behavior-Analysis/raw/main/Customer-Behavior-Analysis-Report.pdf)
+
 
 ---
 
