@@ -29,13 +29,13 @@ This project focuses on analyzing customer behavior to uncover insights related 
 ---
 
 ## Project Files
-- **Power BI Dashboard**
-- **Customer Behavior Analysis Report (PPTX)**  
-  [Download Report](Customer-Behavior-Analysis-Report.pptx)
+-  **Power BI Dashboard**
+-  **Customer Behavior Analysis Report (PDF)**  
+  [View / Download Report](Customer-Behavior-Analysis-Report.pdf)
 
 ---
 
-## Business Value
+##  Business Value
 This analysis helps businesses:
 - Understand customer preferences
 - Improve marketing and retention strategies
@@ -44,7 +44,6 @@ This analysis helps businesses:
 
 ---
 
-## Author
-** Muhammad Ahmad Ali**  
+## 👤 Author
+**Ahmad Ali**  
 Aspiring Data Analyst | Power BI | Python | SQL
-
