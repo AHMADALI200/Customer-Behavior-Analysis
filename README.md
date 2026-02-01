@@ -24,15 +24,7 @@ This project focuses on analyzing customer behavior to uncover insights related 
 ##  Dashboard Features
 - Interactive KPIs for customer count, revenue, and ratings  
 - Category-wise and age-group-wise sales & revenue analysis  
-- Filters for subscription status, gender, category, and shipping type  
-
----
-
-## Project Files
--  **Power BI Dashboard**
--  **Customer Behavior Analysis Report (PDF)**  
-[View / Download Report](https://github.com/AHMADALI200/Customer-Behavior-Analysis/raw/main/Customer-Behavior-Analysis-Report.pdf)
-
+- Filters for subscription status, gender, category, and shipping type
 
 ---
 
